@@ -21,7 +21,18 @@
   },
   "homepage": "https://github.com/MikeOrceis/NodeJS_API#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "carbone": "^2.1.1",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "mysql": "^2.18.1"
+    "jsbarcode": "^3.11.3",
+    "json-server": "^0.16.2",
+    "jsonwebtoken": "^8.5.1",
+    "mogoose": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "node-red": "^1.2.2",
+    "pug": "^3.0.0",
+    "qrcode": "^1.4.4",
+    "swagger-ui-express": "^4.1.4"
   }
 }
